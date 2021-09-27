@@ -3,7 +3,7 @@ export class Employee {
     name:String;
     email:String;
     jobTitle:String;
-    phone:String;
+    phoneNumber:String;
     imgUrl:String;
     employeeCode:String
 }
